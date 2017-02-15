@@ -7,10 +7,10 @@
    Có thể sử dụng bất kỳ trình soạn thảo nào như sublime, notepad, remarkable... để viết Markdown với đuôi file là.md. Bạn có thể viết Markdown online qua các trang web sau:
 		
 	 
-		> https://stackedit.io/editor
-		> https://jbt.github.io/markdown-editor/
-		> http://www.tablesgenerator.com/markdown_tables
-		> https://markable.in/editor/
+	> https://stackedit.io/editor
+	> https://jbt.github.io/markdown-editor/
+	> http://www.tablesgenerator.com/markdown_tables
+	> https://markable.in/editor/
 	 
 
 # 3.Các cú pháp thường gặp:
